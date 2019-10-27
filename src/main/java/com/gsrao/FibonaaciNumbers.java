@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class FibonaaciNumbers {
 
 	public static void main(String[] args) {
-		//input to print Fibonacci series upto how many numbers
         System.out.println("Enter number upto which Fibonacci series to print: ");
         int number = new Scanner(System.in).nextInt();
       
